@@ -1,0 +1,6 @@
+opencv-python
+face-recognition
+numpy
+pandas
+ultralytics
+dlib
